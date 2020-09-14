@@ -1,3 +1,9 @@
-This is first file I created.
+This  first file I created.
 Its very interesting. 
  I love it.
+I am writing it through VI editor.
+I want to delete is from my text.
+I am going to do it by moving cursor under the i and s, and pressing x,
+which deletes character.
+What to type to exit from VI?
+:
